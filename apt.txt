@@ -8,3 +8,9 @@ xfce4
 
 # Everyone needs a browser
 firefox
+
+# Metasploit
+metasploit-framework
+
+# Hydra
+hydra
