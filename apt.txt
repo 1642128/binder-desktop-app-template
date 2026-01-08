@@ -10,7 +10,7 @@ xfce4
 firefox
 
 # Metasploit
-metasploit-framework
+metasploit
 
 # Hydra
 hydra
